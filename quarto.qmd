@@ -38,6 +38,24 @@ compelling storytelling, and exploration of moral ambiguity.
 It has left a lasting impact on the television landscape and continues to be 
 discussed and analyzed by fans and scholars alike.
 
+# **Main actors**
+
+::: {layout="[[1], [1,1,1], [1,1,1]]"
+![James John Gandolfini Jr.](James_Gandolfini_@_Toronto_International_Film_Festival_2011.jpg)
+
+![Lorraine Bracco](440px-Edie_Falco_2010.jpg)
+
+![Edie Falco](lin-wang.png)
+
+![Michael Imperioli](Chris_Moltisanti.jpg)
+
+![Dominic Chianese](Dominic_Chianese_(cropped).jpg)
+
+![Steven Van Zandt](Smwknd-steven-van-zandt-3814.jpg)
+
+![Tony Sirico](David_Chase_and_Tony_Sirico,_May_2000_(cropped).jpg)
+:::
+
 # **Views per Season**
 
 ```{python}
