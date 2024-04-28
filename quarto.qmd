@@ -40,7 +40,8 @@ discussed and analyzed by fans and scholars alike.
 
 # **Views per Season**
 
-```python
+```{python}
+
 import matplotlib.pyplot as plt
 
 seasons = ['Season 1', 'Season 2', 'Season 3', 'Season 4', 'Season 5', 'Season 6']
@@ -54,4 +55,3 @@ plt.ylabel('Viewership (millions)')
 plt.grid(True)
 plt.show()
 
-The graph illustrates the viewership per season of The Sopranos. We observe fluctuations in viewership across seasons, with notable changes between certain seasons. For example, the viewership increased significantly from season 1 to season 2, reaching its peak in **season 3**. However, the viewership decreased by approximately 0.06 million between seasons 3 and 5. Overall, the series maintained a relatively stable viewership throughout its run.
