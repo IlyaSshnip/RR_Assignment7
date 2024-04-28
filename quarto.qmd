@@ -124,7 +124,7 @@ plt.show()
 
 # **Average Views per Season**
 ```{python}
-
+#| echo: true
 import matplotlib.pyplot as plt
 
 # Data
@@ -137,8 +137,8 @@ plt.plot(seasons, viewers_18_49, marker='o')
 
 # Adding labels and title
 plt.xlabel('Season')
-plt.ylabel('18-49 Viewers (millions)')
-plt.title('Viewership of "The Sopranos" (18-49) Over Seasons')
+plt.ylabel('Viewers (millions)')
+plt.title('Viewership of "The Sopranos" Over Seasons')
 
 # Display the plot
 plt.grid(True)
