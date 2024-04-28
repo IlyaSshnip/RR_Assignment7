@@ -1,8 +1,10 @@
 ---
-title: "Short Report on the TV Show *The Sopranos*"
-author: "Your Name"
-date: "April 28, 2024"
+title: "Report on the TV Show *The Sopranos*"
+author: "Ilya Shnip"
+date: "28.04.2024"
 ---
+
+![The Sopranos](the-sopranos-25th-anniversary-ka.jpg.avif)
 
 # **Introduction**
 
