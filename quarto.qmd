@@ -62,7 +62,7 @@ discussed and analyzed by fans and scholars alike.
 
 ```{python}
 #| echo: false
-#| fig.width: 500
+#| fig.width: 800
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
@@ -126,7 +126,7 @@ plt.show()
 # **Average Views per Season**
 ```{python}
 #| echo: false
-#| fig.width: 500
+#| fig.width: 800
 import matplotlib.pyplot as plt
 
 # Data
