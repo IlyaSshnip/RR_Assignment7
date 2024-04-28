@@ -66,9 +66,10 @@ discussed and analyzed by fans and scholars alike.
 # **Views per Season**
 
 ```{python}
-
 import matplotlib.pyplot as plt
+import numpy as np
 
+# Generate data
 seasons = ['Season 1', 'Season 2', 'Season 3', 'Season 4', 'Season 5', 'Season 6']
 viewers = [3.45, 8.91, 12.54, 12.48, 11.91, 11.94]
 
