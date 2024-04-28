@@ -1,5 +1,5 @@
 ---
-title: "Report on the TV Show *The Sopranos*"
+title: "Report on the TV Show ***The Sopranos***"
 author: "Ilya Shnip"
 date: "28/04/2024"
 ---
@@ -9,7 +9,7 @@ date: "28/04/2024"
 # **Introduction**
 
 The Sopranos is an American crime drama television series created by *David Chase*. 
-It premiered on the *HBO* network in 1999 and ran for six seasons until 2007.
+It premiered on the HBO network in 1999 and ran for six seasons until 2007.
 The show revolves around *Tony Soprano*, a mob boss in New Jersey, as he navigates 
 the challenges of leading a criminal organization while dealing with personal 
 and family issues.
@@ -49,6 +49,18 @@ discussed and analyzed by fans and scholars alike.
 
 ![Michael Imperioli](Chris_Moltisanti.jpg){width="500" height="500"}
 :::
+
+# **Seasons schedue**
+
+| Season | Episodes | Originally aired   |
+|--------|----------|---------------------|
+| 1      | 13       | January 10, 1999 - April 4, 1999 |
+| 2      | 13       | January 16, 2000 - April 9, 2000 |
+| 3      | 13       | March 4, 2001 - May 20, 2001    |
+| 4      | 13       | September 15, 2002 - December 8, 2002 |
+| 5      | 13       | March 7, 2004 - June 6, 2004    |
+| 6      | 21       | March 12, 2006 - June 4, 2006   |
+|        | 12       | April 8, 2007 - June 10, 2007   |
 
 
 # **Views per Season**
