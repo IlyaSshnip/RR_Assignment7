@@ -40,14 +40,16 @@ discussed and analyzed by fans and scholars alike.
 
 # **Main actors**
 
-::: {layout="[[1,1,1], [1,1,1]]"}
-<img src="James_Gandolfini_@_Toronto_International_Film_Festival_2011.jpg" alt="James John Gandolfini Jr." width="200" height="200"/>
-<img src="lin-wang.png" alt="Edie Falco" width="200" height="200"/>
-<img src="Chris_Moltisanti.jpg" alt="Michael Imperioli" width="200" height="200"/>
-<img src="Dominic_Chianese_(cropped).jpg" alt="Dominic Chianese" width="200" height="200"/>
-<img src="Smwknd-steven-van-zandt-3814.jpg" alt="Steven Van Zandt" width="200" height="200"/>
-<img src="David_Chase_and_Tony_Sirico,_May_2000_(cropped).jpg" alt="Tony Sirico" width="200" height="200"/>
+::: {layout="[[1,1], [1,1]]"}
+![James John Gandolfini Jr.](James_Gandolfini_@_Toronto_International_Film_Festival_2011.jpg){width="500" height="500"}
+
+![Lorraine Bracco](Lorraine_Bracco.jpg){width="500" height="500"}
+
+![Edie Falco](440px-Edie_Falco_2010.jpg){width="500" height="500"}
+
+![Michael Imperioli](Chris_Moltisanti.jpg){width="500" height="500"}
 :::
+
 
 # **Views per Season**
 
