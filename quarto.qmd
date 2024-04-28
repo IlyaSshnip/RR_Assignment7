@@ -8,7 +8,7 @@ date: "28/04/2024"
 
 # **Introduction**
 
-*The Sopranos* is an American crime drama television series created by *David Chase*. 
+The Sopranos is an American crime drama television series created by *David Chase*. 
 It premiered on the *HBO* network in 1999 and ran for six seasons until 2007.
 The show revolves around *Tony Soprano*, a mob boss in New Jersey, as he navigates 
 the challenges of leading a criminal organization while dealing with personal 
@@ -16,11 +16,11 @@ and family issues.
 
 # **Brief Overview**
 
-*The Sopranos* is widely regarded as one of the greatest television series of all time. 
+The Sopranos is widely regarded as one of the greatest television series of all time. 
 It received critical acclaim for its writing, acting, and realistic portrayal of 
 organized crime. The show has influenced numerous other TV series and films and 
 pioneered the concept of the "anti-hero" protagonist. 
-It won numerous awards, including multiple *Emmy Awards* and *Golden Globe Awards*.
+It won numerous awards, including multiple Emmy Awards and Golden Globe Awards.
 
 # **Plot Summary**
 
@@ -33,10 +33,12 @@ psychological effects of a life of crime.
 
 # **Impact and Legacy**
 
-*The Sopranos* remains a cultural phenomenon, remembered for its complex characters, 
+The Sopranos remains a cultural phenomenon, remembered for its complex characters, 
 compelling storytelling, and exploration of moral ambiguity. 
 It has left a lasting impact on the television landscape and continues to be 
 discussed and analyzed by fans and scholars alike.
+
+# **Views per Season**
 
 ```python
 import matplotlib.pyplot as plt
@@ -51,3 +53,5 @@ plt.xlabel('Season')
 plt.ylabel('Viewership (millions)')
 plt.grid(True)
 plt.show()
+
+The graph illustrates the viewership per season of The Sopranos. We observe fluctuations in viewership across seasons, with notable changes between certain seasons. For example, the viewership increased significantly from season 1 to season 2, reaching its peak in **season 3**. However, the viewership decreased by approximately 0.06 million between seasons 3 and 5. Overall, the series maintained a relatively stable viewership throughout its run.
