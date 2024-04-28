@@ -1,7 +1,7 @@
 ---
 title: "Report on the TV Show *The Sopranos*"
 author: "Ilya Shnip"
-date: "28.04.2024"
+date: "28/04/2024"
 ---
 
 ![The Sopranos](the-sopranos-25th-anniversary-ka.jpg.avif)
@@ -37,3 +37,17 @@ psychological effects of a life of crime.
 compelling storytelling, and exploration of moral ambiguity. 
 It has left a lasting impact on the television landscape and continues to be 
 discussed and analyzed by fans and scholars alike.
+
+```python
+import matplotlib.pyplot as plt
+
+seasons = ['Season 1', 'Season 2', 'Season 3', 'Season 4', 'Season 5', 'Season 6']
+viewers = [3.45, 8.91, 12.54, 12.48, 11.91, 11.94]
+
+plt.figure(figsize=(8, 5))
+plt.plot(seasons, viewers, marker='o', color='b')
+plt.title('Viewership per Season of The Sopranos')
+plt.xlabel('Season')
+plt.ylabel('Viewership (millions)')
+plt.grid(True)
+plt.show()
