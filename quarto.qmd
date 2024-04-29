@@ -7,7 +7,7 @@ date: "28/04/2024"
 ![The Sopranos](the-sopranos-25th-anniversary-ka.jpg.avif)
 
 # **Introduction**
-
+[**See Average Views per Season**](#python 2)
 The Sopranos is an American crime drama television series created by *David Chase*. 
 It premiered on the HBO network in 1999 and ran for six seasons until 2007.
 The show revolves around *Tony Soprano*, a mob boss in New Jersey, as he navigates 
@@ -149,6 +149,10 @@ plt.tight_layout()
 plt.show()
 
 ```
+
+
+
+
 
 The viewership of "The Sopranos" among the 18-49 demographic varied across its seasons. Season 4 (2002) attracted the highest number of viewers in this demographic, averaging 7.56 million viewers Season 4 [**See Average Views per Season**](#python 2). Season 3 (2001) also garnered significant attention with an average of 6.04 million viewers Season 3 [**See Average Views per Season**](#python 2). However, there was a decline in viewership in subsequent seasons, with Season 6B (2007) experiencing the lowest viewership among the 18-49 demographic, averaging only 4.97 million viewers Season 6B [**See Average Views per Season**](#python 2). Despite fluctuations, the series maintained a relatively strong viewership throughout its run, indicating its enduring popularity.
 
